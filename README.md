@@ -1,2 +1,2 @@
-# GF
-Refused :)
+# GF Assignment
+[GfCaseStudy.ipynb](GfCaseStudy.ipynb)
